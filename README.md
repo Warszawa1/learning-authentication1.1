@@ -1,6 +1,7 @@
 
 ## 🔐 Authentication and Security 1.1
 
+
 Next step after auth 1.0:
 
 
@@ -13,6 +14,7 @@ Next step after auth 1.0:
     Preventing rainbow table attacks.
 
 
+
 ## 📦 Dependencies
 This project relies on the following dependencies:
 
@@ -21,6 +23,7 @@ This project relies on the following dependencies:
 - `express`
 - `pg`
 - `bcrypt`
+
 
 
 
